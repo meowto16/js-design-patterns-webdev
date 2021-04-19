@@ -1,4 +1,4 @@
-# [Singleton]()
+# [Singleton (Одиночка)](https://www.youtube.com/watch?v=GrYs0qDQEp0&list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&index=3&ab_channel=webDev)
 
 > **Относится к порождающим паттернам**
 

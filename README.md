@@ -8,4 +8,5 @@
 ## Навигация
 
 - [0. Введение](./docs/0.%20Introduction)
-- [1. Singleton](./docs/1.%20Singleton)
+- [1. Singleton (Одиночка)](./docs/1.%20Singleton)
+- [2. Factory method (фабричный метод)](./docs/2.%20Factory%20method)
