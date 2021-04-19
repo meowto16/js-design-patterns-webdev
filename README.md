@@ -8,3 +8,4 @@
 ## Навигация
 
 - [0. Введение](./docs/0.%20Introduction)
+- [1. Singleton](./docs/1.%20Singleton)
