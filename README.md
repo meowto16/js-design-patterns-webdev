@@ -11,4 +11,4 @@
 - [1. Singleton (Одиночка)](./docs/1.%20Singleton)
 - [2. Factory method (Фабричный метод)](./docs/2.%20Factory%20method)
 - [3. Abstract factory (Абстрактная фабрика)](./docs/3.%20Abstract%20factory)
-- [4. ]
+- [4. Prototype (Прототип)](./docs/4.%20Prototype)
