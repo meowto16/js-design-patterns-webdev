@@ -12,3 +12,4 @@
 - [2. Factory method (Фабричный метод)](./docs/2.%20Factory%20method)
 - [3. Abstract factory (Абстрактная фабрика)](./docs/3.%20Abstract%20factory)
 - [4. Prototype (Прототип)](./docs/4.%20Prototype)
+- [5. Builder (Строитель)](./docs/5.%20Builder)
