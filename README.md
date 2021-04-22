@@ -13,3 +13,4 @@
 - [3. Abstract factory (Абстрактная фабрика)](./docs/3.%20Abstract%20factory)
 - [4. Prototype (Прототип)](./docs/4.%20Prototype)
 - [5. Builder (Строитель)](./docs/5.%20Builder)
+- [6. Decorator (Декоратор)](./docs/6.%20Decorator)
