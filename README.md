@@ -15,3 +15,4 @@
 - [5. Builder (Строитель)](./docs/5.%20Builder)
 - [6. Decorator (Декоратор)](./docs/6.%20Decorator)
 - [7. Facade (Фасад)](./docs/7.%20Facade)
+- [8. Proxy (Заместитель)](./docs/8.%20Proxy)
