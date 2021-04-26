@@ -18,3 +18,4 @@
 - [8. Proxy (Заместитель)](./docs/8.%20Proxy)
 - [9. Adapter (Адаптер)](./docs/9.%20Adapter)
 - [10. Composite (Компоновщик)](./docs/10.%20Composite)
+- [11. Bridge (Мост)](./docs/11.%20Bridge)
