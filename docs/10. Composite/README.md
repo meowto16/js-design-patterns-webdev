@@ -1,4 +1,4 @@
-# Composite (Компоновщик)
+# [Composite (Компоновщик)](https://www.youtube.com/watch?v=H-CwPjUB5Rw&list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&index=11&ab_channel=webDev)
 
 **Composite** - структурный паттерн проектирования, который позволяет сгруппировать 
 множество объектов в древовидную структуру и работать с этой структурой так, как будто это один единственный объект.

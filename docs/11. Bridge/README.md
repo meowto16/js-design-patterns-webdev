@@ -1,4 +1,4 @@
-# Bridge (Мост)
+# [Bridge (Мост)](https://www.youtube.com/watch?v=pNVuMif0bc0&list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&index=12&ab_channel=webDev)
 
 **Bridge** - структурный паттерн проектирования, который разделяет один или несколько классов на несколько
 отдельных иерархий, которые называются *абстракция* или *реализация*, что в свою очередь помогает изменять их

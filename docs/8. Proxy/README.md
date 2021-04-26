@@ -1,4 +1,4 @@
-# Proxy (Заместитель)
+# [Proxy (Заместитель)](https://www.youtube.com/watch?v=9GvBg7pTOUY&list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&index=9&ab_channel=webDev)
 
 **Proxy** - структурный паттерн проектирования, который вместо реальных объектов предоставляет объекты-заменители.
 

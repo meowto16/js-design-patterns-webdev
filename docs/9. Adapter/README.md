@@ -1,4 +1,4 @@
-# Adapter (Адаптер)
+# [Adapter (Адаптер)](https://www.youtube.com/watch?v=w6O9Kr41frc&list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&index=10&ab_channel=webDev)
 
 **Adapter** - структурный паттерн проектирования, который оборачивает несовместимый с чем-то объект и 
 делает его совместимым. Позволяет объектам с несовместимыми интерфейсами работать вместе.
