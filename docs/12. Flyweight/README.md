@@ -1,4 +1,4 @@
-# [Flyweight (легковес)](https://www.youtube.com/watch?v=hlxRecs_r3Y&list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&index=13&ab_channel=webDev)
+# [Flyweight (Легковес)](https://www.youtube.com/watch?v=hlxRecs_r3Y&list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&index=13&ab_channel=webDev)
 
 **Flyweight** - структурный паттерн, который позволяет вместить большее кол-во определенных объектов в выделенную
 оперативную память.

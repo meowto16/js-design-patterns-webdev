@@ -19,4 +19,5 @@
 - [9. Adapter (Адаптер)](./docs/9.%20Adapter)
 - [10. Composite (Компоновщик)](./docs/10.%20Composite)
 - [11. Bridge (Мост)](./docs/11.%20Bridge)
-- [12. Flyweight (легковес)](./docs/12.%20Flyweight)
+- [12. Flyweight (Легковес)](./docs/12.%20Flyweight)
+- [13. Mediator (Посредник)](./docs/13.%20Mediator)
