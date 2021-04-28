@@ -1,4 +1,4 @@
-# Iterator (Итератор)
+# [Iterator (Итератор)](https://www.youtube.com/watch?v=bjH4NHItd3U&list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&index=15&ab_channel=webDev)
 
 **Iterator** - поведенческий паттерн проектирования, который дает возможность последовательно обходить элементы
 составных объектов, не раскрывая их внутреннее представление.

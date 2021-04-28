@@ -22,3 +22,4 @@
 - [12. Flyweight (Легковес)](./docs/12.%20Flyweight)
 - [13. Mediator (Посредник)](./docs/13.%20Mediator)
 - [14. Iterator (Итератор)](./docs/14.%20Iterator)
+- [15. Chain of responsibility (Цепочка обязанностей)](./docs/15.%20Chain%20of%20responsibility)
