@@ -21,3 +21,4 @@
 - [11. Bridge (Мост)](./docs/11.%20Bridge)
 - [12. Flyweight (Легковес)](./docs/12.%20Flyweight)
 - [13. Mediator (Посредник)](./docs/13.%20Mediator)
+- [14. Iterator (Итератор)](./docs/14.%20Iterator)
