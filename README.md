@@ -24,3 +24,4 @@
 - [14. Iterator (Итератор)](./docs/14.%20Iterator)
 - [15. Chain of responsibility (Цепочка обязанностей)](./docs/15.%20Chain%20of%20responsibility)
 - [16. Strategy (Стратегия)](./docs/16.%20Strategy)
+- [17. Memento (Снимок)](./docs/17.%20Memento)
