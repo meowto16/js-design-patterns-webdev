@@ -25,3 +25,4 @@
 - [15. Chain of responsibility (Цепочка обязанностей)](./docs/15.%20Chain%20of%20responsibility)
 - [16. Strategy (Стратегия)](./docs/16.%20Strategy)
 - [17. Memento (Снимок)](./docs/17.%20Memento)
+- [18. Template method (шаблонный метод)](./docs/18.%20Template%20method)
