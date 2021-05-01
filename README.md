@@ -27,3 +27,4 @@
 - [17. Memento (Снимок)](./docs/17.%20Memento)
 - [18. Template method (Шаблонный метод)](./docs/18.%20Template%20method)
 - [19. Visitor (Посетитель)](./docs/19.%20Visitor)
+- [20. Command (Команда)](./docs/20.%20Command)
