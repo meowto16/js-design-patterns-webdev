@@ -29,3 +29,4 @@
 - [19. Visitor (Посетитель)](./docs/19.%20Visitor)
 - [20. Command (Команда)](./docs/20.%20Command)
 - [21. Observer (Наблюдатель)](./docs/21.%20Observer)
+- [22. State (Состояние)](./docs/22.%20State)
