@@ -3,7 +3,7 @@
 ## О курсе
 
 - Автор: [webDev](https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg)
-- Ссылка на курс: [плейлист YouTube](https://www.youtube.com/watch?v=wmla1hxxvQI&list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4)
+- Ссылка на курс: [плейлист YouTube](https://www.youtube.com/watch?v=RyY6x_6ws4s&list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&index=1)
 
 ## Навигация
 
